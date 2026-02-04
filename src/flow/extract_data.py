@@ -8,7 +8,7 @@ import os
 from pathlib import Path
 
 from typing import Dict, List
-import pandas as pd, DataFrame
+import pandas as pd
 
 from config.static import DI_SCOPE, DI_COLUMNS, DI_DIMENSION, DI_REPLACE
 from src.utils.tools import FolderManage, DataManage
@@ -21,8 +21,8 @@ class RawProcess:
         """DOC
         """
         self.ac_folder = FolderManage()
-        self.st_path_ori = DI_SCOPE["ori"]["path"]
-        self.st_path_raw = DI_SCOPE["raw"]["path"]
+        self.st_path_ori: Path = DI_SCOPE["ori"]["path"]
+        self.st_path_raw: Path = DI_SCOPE["raw"]["path"]
 
     def execute(self):
         """DOC
@@ -30,8 +30,8 @@ class RawProcess:
         ls_files = os.listdir(self.st_path_ori)
 
         for file in ls_files:
-            st_ori: str = self.st_path_ori / file
-            st_raw: str = self.st_path_raw / file
+            st_ori = self.st_path_ori / file
+            st_raw = self.st_path_raw / file
             self.ac_folder.move_file(st_ori, st_raw, "copy")
 
 
@@ -42,11 +42,11 @@ class BronzeProcess:
     def __init__(self)->None:
         """DOC"""
         self.ac_data = DataManage()
-        self.st_path_ori = DI_SCOPE["raw"]["path"]
-        self.st_path_fin = DI_SCOPE["brz"]["path"]
+        self.st_path_ori: Path = DI_SCOPE["raw"]["path"]
+        self.st_path_fin: Path = DI_SCOPE["brz"]["path"]
         self.di_columns = DI_COLUMNS
         self.di_replace = DI_REPLACE
-        self.di_order = {}
+        self.di_order: Dict[str, pd.DataFrame] = {}
         self.ls_drop = ["README.txt"]
 
     def execute(self)->None:
@@ -180,7 +180,7 @@ class SilverProcess:
 
         for file in ls_files:
             st_path = self.st_path_ori / file
-            df_data: DataFrame = pd.read_csv(st_path)
+            df_data: pd.DataFrame = pd.read_csv(st_path)
             self.di_order[file] = df_data
 
     def order_data(self)->pd.DataFrame:
@@ -233,9 +233,9 @@ class GoldProcess:
     def __init__(self):
         """DOC
         """
-        self.st_path_ori = DI_SCOPE["slv"]["path"]
-        self.st_path_fin = DI_SCOPE["gld"]["path"]
-        self.di_order = {}
+        self.st_path_ori: Path = DI_SCOPE["slv"]["path"]
+        self.st_path_fin: Path = DI_SCOPE["gld"]["path"]
+        self.di_order: Dict[str, pd.DataFrame] = {}
 
     def execute(self):
         """DOC
@@ -259,13 +259,10 @@ class GoldProcess:
     def denormalize(self)->pd.DataFrame:
         """DOC"""
 
-        name = 0
-        data = 0
+        df_data = self.di_order["data_fact"]
 
         for name, data in self.di_order.items():
-            if "fact" in name:
-                df_data = data
-            else:
+            if not "fact" in name:
                 st_name = name[4:]
                 df_data = df_data.merge(data, on=f"id_{st_name}")
 
