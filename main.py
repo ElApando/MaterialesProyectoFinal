@@ -73,7 +73,7 @@ def main()->None:
         ac_folder.check_path(route["path"])
 
     ac_extract = RawProcess()
-    ac_extract.execute()
+    # ac_extract.execute()
     ac_extract = BronzeProcess()
     ac_extract.execute()
     ac_extract = SilverProcess()

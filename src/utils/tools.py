@@ -201,7 +201,7 @@ class DataManage:
 
         return st_date
 
-    def format_column(self, df_data:pd.DataFrame, ls_names:list, st_type_data:str)->pd.DataFrame:
+    def format_column(self, df_data:pd.DataFrame, ls_names:list[str], st_type_data:str)->pd.DataFrame:
         """ Convierte el tipo de dato de columnas específicas de un DataFrame.
 
         Parameters:
