@@ -1,0 +1,66 @@
+
+2026-02-24 20:28:41.284863 
+
+2026-02-24 20:28:41.284863 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-02-24 20:28:41.284863 [START] - main
+2026-02-24 20:28:41.284863 
+
+2026-02-24 20:28:41.284863 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-02-24 20:28:41.294409 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-02-24 20:28:41.296415 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-02-24 20:28:41.296415 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-02-24 20:28:41.298419 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-02-24 20:28:41.298419 
+
+2026-02-24 20:28:41.300425 [START] - Ejecución Pipeline 
+2026-02-24 20:28:41.300425 
+
+2026-02-24 20:28:41.302430 [START] - Proceso brz
+2026-02-24 20:28:41.302430 [START] - Ejecución Bronze
+2026-02-24 20:28:41.302430 [INFO] - Extración de datos
+2026-02-24 20:29:05.410687 [INFO] - Escritura de tablas correspondientes
+2026-02-24 20:29:05.550310 [END] - Ejecución Bronze
+2026-02-24 20:29:05.554935 [INFO] - Tiempo de ejecución brz - 24.25s
+2026-02-24 20:29:05.554935 [END] - Proceso brz
+2026-02-24 20:29:05.554935 
+
+2026-02-24 20:29:05.554935 
+
+2026-02-24 20:29:05.554935 [END] - Ejecución Pipeline 
+2026-02-24 20:29:05.554935 
+
+2026-02-24 20:29:05.554935 [END] - main
+2026-02-24 20:29:05.554935 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-02-24 20:41:59.066818 
+
+2026-02-24 20:41:59.066818 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-02-24 20:41:59.066818 [START] - main
+2026-02-24 20:41:59.066818 
+
+2026-02-24 20:41:59.066818 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-02-24 20:41:59.066818 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-02-24 20:41:59.066818 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-02-24 20:41:59.066818 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-02-24 20:41:59.066818 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-02-24 20:41:59.066818 
+
+2026-02-24 20:41:59.066818 [START] - Ejecución Pipeline 
+2026-02-24 20:41:59.082703 
+
+2026-02-24 20:41:59.082703 [START] - Proceso brz
+2026-02-24 20:41:59.084709 [START] - Ejecución Bronze
+2026-02-24 20:41:59.084709 [INFO] - Extración de datos
+2026-02-24 20:42:10.410802 [INFO] - Orden de columnas
+2026-02-24 20:43:01.571060 [INFO] - Escritura de tablas correspondientes
+2026-02-24 20:43:04.429944 [END] - Ejecución Bronze
+2026-02-24 20:43:04.429944 [INFO] - Tiempo de ejecución brz - 65.35s
+2026-02-24 20:43:04.429944 [END] - Proceso brz
+2026-02-24 20:43:04.429944 
+
+2026-02-24 20:43:04.429944 
+
+2026-02-24 20:43:04.429944 [END] - Ejecución Pipeline 
+2026-02-24 20:43:04.429944 
+
+2026-02-24 20:43:04.429944 [END] - main
+2026-02-24 20:43:04.429944 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()

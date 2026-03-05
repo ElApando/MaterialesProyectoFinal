@@ -1,35 +1,39 @@
-"""Orquestador de Web Scarping Natura
+"""Orquestador de Proyecto - Rutilio
 
-Este es el contrrol de mando de todo el proyecto, se debe de colocar True o False dependiendo de lo
-que se revisa
+Este es el comienzo del proyecto, se crean las carpetas de uso si no existen y posteriormente
+se activa el Pipeline.
 
 Se ejecuta con => python -m main
 """
 
-# pylint: disable=broad-exception-caught
-
 from config.static import DI_SCOPE
-from src.flow.extract_data import RawProcess, BronzeProcess, SilverProcess, GoldProcess
-from src.utils.tools import FolderManage
+from src.orchestration.pipeline import Pipeline
+from src.utils.tools import FolderManage, write_logs
 
 def main()->None:
-    """DOC-
+    """
+    Ejecuta la función principal del proyecto.
+
+    Crea las carpetas necesarias y posteriormente ejecuta el pipeline.
     """
 
+    write_logs("\n")
+    write_logs("()"*30)
+    write_logs("[START] - main")
+    write_logs("\n")
 
-    # Revisión de rutas
     for _, route in DI_SCOPE.items():
         ac_folder = FolderManage()
         ac_folder.check_path(route["path"])
+        st_path = route["path"]
+        write_logs(f"[INFO] - Crecaión de la ruta {st_path}")
 
-    ac_extract = RawProcess()
-    ac_extract.execute()
-    ac_extract = BronzeProcess()
-    ac_extract.execute()
-    ac_extract = SilverProcess()
-    ac_extract.execute()
-    ac_extract = GoldProcess()
-    ac_extract.execute()
+    activate = Pipeline()
+    activate.excute()
+
+    write_logs("\n")
+    write_logs("[END] - main")
+    write_logs("()"*30)
 
 if __name__ == "__main__":
     main()

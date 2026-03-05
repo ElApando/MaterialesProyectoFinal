@@ -1,5 +1,7 @@
-"""
-Docstring for config.dynamic
+"""Configuración dínamica del proyecto
+
+Se configuara el ambiente en el que se este trabajando. los ambientes con los que trabaja el
+proyecto son: Local y Google Colab, por el momento, proximamente tambien se incluira docker 
 """
 
 from pathlib import Path

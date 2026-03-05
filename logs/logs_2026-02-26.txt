@@ -1,0 +1,69 @@
+
+2026-02-26 21:04:43.482683 
+
+2026-02-26 21:04:43.482683 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-02-26 21:04:43.484127 [START] - main
+2026-02-26 21:04:43.485133 
+
+2026-02-26 21:04:43.487337 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-02-26 21:04:43.488364 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-02-26 21:04:43.490420 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-02-26 21:04:43.493945 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-02-26 21:04:43.495950 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-02-26 21:04:43.497957 
+
+2026-02-26 21:04:43.497957 [START] - Ejecución Pipeline 
+2026-02-26 21:04:43.499962 [START] - Proceso raw
+2026-02-26 21:04:43.503317 [INFO] - Extracción de datos
+2026-02-26 21:04:43.525610 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-02-26 21:04:43.536100 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-02-26 21:04:43.545311 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-02-26 21:04:43.559690 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-02-26 21:04:43.573764 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-02-26 21:04:43.590194 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-02-26 21:04:43.607438 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-02-26 21:04:43.625897 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-02-26 21:04:43.646673 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-02-26 21:04:43.659901 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-02-26 21:04:43.663649 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-02-26 21:04:43.665653 [INFO] - Tiempo de ejecución raw - 0.16s
+2026-02-26 21:04:43.665653 [END] - Proceso raw
+2026-02-26 21:04:43.667659 
+
+2026-02-26 21:04:43.667659 [START] - Proceso brz
+2026-02-26 21:04:43.668992 [START] - Ejecución Bronze
+2026-02-26 21:04:43.669998 [INFO] - Extración de datos
+2026-02-26 21:05:03.038970 [INFO] - Orden de columnas
+2026-02-26 21:05:54.679359 [INFO] - Escritura de tablas correspondientes
+2026-02-26 21:05:56.028154 [END] - Ejecución Bronze
+2026-02-26 21:05:56.028154 [INFO] - Tiempo de ejecución brz - 72.36s
+2026-02-26 21:05:56.028154 [END] - Proceso brz
+2026-02-26 21:05:56.028154 
+
+2026-02-26 21:05:56.028154 [START] - Proceso slv
+2026-02-26 21:05:56.033292 [START] - Ejecución Silver
+2026-02-26 21:05:56.033927 [INFO] - Extración de datos
+2026-02-26 21:05:56.729750 [INFO] - Orden de datos
+2026-02-26 21:06:08.621900 [INFO] - Normalización de Tabla
+2026-02-26 21:06:08.828528 [INFO] - Escritura de tabla
+2026-02-26 21:06:10.642752 [INFO] - Tabla de hechos
+2026-02-26 21:06:11.207009 [INFO] - Escritura de tabla
+2026-02-26 21:06:11.681722 [END] - Ejecución Silver
+2026-02-26 21:06:11.710160 [INFO] - Tiempo de ejecución slv - 15.68s
+2026-02-26 21:06:11.712164 [END] - Proceso slv
+2026-02-26 21:06:11.712164 
+
+2026-02-26 21:06:11.712164 [START] - Proceso gld
+2026-02-26 21:06:11.713908 [START] - Ejecución Gold
+2026-02-26 21:06:11.713908 [INFO] - Extracción de datos
+2026-02-26 21:06:11.855014 [INFO] - Desnormalización de tablas
+2026-02-26 21:06:11.925094 [INFO] - Reglas de negocio
+2026-02-26 21:06:11.934350 [INFO] - Escritura de tabla
+2026-02-26 21:06:12.329721 [END] - Ejecución Gold
+2026-02-26 21:06:12.349088 [INFO] - Tiempo de ejecución gld - 0.64s
+2026-02-26 21:06:12.350043 [END] - Proceso gld
+2026-02-26 21:06:12.350404 [END] - Ejecución Pipeline 
+2026-02-26 21:06:12.350404 
+
+2026-02-26 21:06:12.350404 [END] - main
+2026-02-26 21:06:12.350404 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()

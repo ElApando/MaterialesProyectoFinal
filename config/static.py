@@ -7,12 +7,12 @@ from typing import Dict, Any
 from config.dynamic import st_path_base, st_path_orig
 
 DI_SCOPE : Dict[str, Any] = {"ori":{"path": st_path_orig},
-                             "raw":{"path": st_path_base / "refs" / "raw"},
-                             "brz":{"path": st_path_base / "refs" / "brz"},
-                             "slv":{"path": st_path_base / "refs" / "slv"},
-                             "gld":{"path": st_path_base / "refs" / "gld"}}
+                             "raw":{"path": st_path_base / "data" / "raw"},
+                             "brz":{"path": st_path_base / "data" / "brz"},
+                             "slv":{"path": st_path_base / "data" / "slv"},
+                             "gld":{"path": st_path_base / "data" / "gld"}}
 
-DI_COLUMNS : Dict[str,Any] = {"id" : "id_venta",
+DI_COLUMNS : Dict[str, Any] = {"id" : "id_venta",
                               "time" : "fecha_hora",
                               "add" : ["fecha", "hora"],
                               "type_columns": {
