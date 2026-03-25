@@ -1,0 +1,32 @@
+
+2026-03-18 22:06:50.789380 
+
+2026-03-18 22:06:50.790379 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-18 22:06:50.791378 [START] - main
+2026-03-18 22:06:50.792378 
+
+2026-03-18 22:07:03.228547 
+
+2026-03-18 22:07:03.228547 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-18 22:07:03.228547 [START] - main
+2026-03-18 22:07:03.228547 
+
+2026-03-18 22:07:03.228547 
+
+2026-03-18 22:07:03.244180 [END] - main
+2026-03-18 22:07:03.245510 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-18 22:13:24.300039 
+
+2026-03-18 22:13:24.300039 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-18 22:13:24.300039 [START] - main
+2026-03-18 22:13:24.300039 
+
+2026-03-18 22:13:24.300039 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-18 22:13:24.300039 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-18 22:13:24.300039 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-18 22:13:24.300039 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-18 22:13:24.315786 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-18 22:13:24.315786 
+
+2026-03-18 22:13:24.315786 [END] - main
+2026-03-18 22:13:24.315786 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()

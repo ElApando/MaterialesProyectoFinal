@@ -5,6 +5,7 @@ proyecto son: Local y Google Colab, por el momento, proximamente tambien se incl
 """
 
 from pathlib import Path
+from villapy.config.dynamic import config_base_path
 
 ST_FLOW  = "content"
 
@@ -19,4 +20,6 @@ else:
     st_path_base = ST_CURRENT_PATH
     st_path_orig = ST_CURRENT_PATH / "MaterialesProyectoFinal"
 
+
+config_base_path(st_path_base) # Momentaneo la función debe de recibir un path
 # Finite incantatem

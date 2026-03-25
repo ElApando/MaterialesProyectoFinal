@@ -261,7 +261,7 @@ class DataManage:
         Parameters:
             - df_data *(pd.DataFrame)* - DataFrame original.
             - ls_names *(list)* - Lista de columnas a convertir.
-            - st_type_data *(str)* - Tipo de dato destino ("str", "int", "float", "date").
+            - st_type_data *(str)* - Tipo de dato destino ("str", "int", "float", "date", "time).
 
         Retorna:
             - df_data *(pd.DataFrame)* - Nuevo DataFrame con las columnas convertidas.
