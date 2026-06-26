@@ -5,7 +5,7 @@ proyecto son: Local y Google Colab, por el momento, proximamente tambien se incl
 """
 
 from pathlib import Path
-from villapy.config.dynamic import config_base_path
+from villapy_lib.config.dynamic import config_base_path
 
 ST_FLOW  = "content"
 

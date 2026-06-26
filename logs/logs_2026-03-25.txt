@@ -1,0 +1,339 @@
+
+2026-03-25 18:28:23.814018 
+
+2026-03-25 18:28:23.815022 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:28:23.816531 [START] - main
+2026-03-25 18:28:23.817536 
+
+2026-03-25 18:28:23.819534 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:28:23.837239 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:28:23.840238 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:28:23.841746 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:28:23.843774 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:28:23.845777 
+
+2026-03-25 18:28:23.846776 [START] - Ejecución Pipeline 
+2026-03-25 18:28:23.847776 [START] - Proceso raw
+2026-03-25 18:28:23.849776 [INFO] - Extracción de datos
+2026-03-25 18:28:23.869822 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:28:23.882870 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:28:23.981742 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:28:24.002804 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:28:24.014572 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:28:24.038282 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:28:24.093360 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:28:24.111924 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:28:24.131802 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:28:24.185259 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:28:24.190256 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:28:24.191763 [INFO] - Tiempo de ejecución raw - 0.34s
+2026-03-25 18:28:24.192795 [END] - Proceso raw
+2026-03-25 18:28:24.193792 [END] - Ejecución Pipeline 
+2026-03-25 18:28:24.194792 
+
+2026-03-25 18:28:24.195797 [END] - main
+2026-03-25 18:28:24.196796 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:29:30.883180 
+
+2026-03-25 18:29:30.884201 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:29:30.884201 [START] - main
+2026-03-25 18:29:30.885507 
+
+2026-03-25 18:29:30.886534 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:29:30.887540 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:29:30.888754 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:29:30.889996 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:29:30.891502 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:29:30.892525 
+
+2026-03-25 18:29:30.892525 [START] - Ejecución Pipeline 
+2026-03-25 18:29:30.893799 [START] - Proceso raw
+2026-03-25 18:29:30.894806 [INFO] - Extracción de datos
+2026-03-25 18:29:30.901484 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:29:30.904684 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:29:30.911533 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:29:30.918359 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:29:30.922865 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:29:30.930248 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:29:30.937855 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:29:30.944755 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:29:30.951752 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:29:30.957602 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:29:30.960936 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:29:30.961438 [INFO] - Tiempo de ejecución raw - 0.07s
+2026-03-25 18:29:30.962454 [END] - Proceso raw
+2026-03-25 18:29:30.962454 
+
+2026-03-25 18:29:30.963459 [START] - Proceso brz
+2026-03-25 18:29:30.964458 [START] - Ejecución Bronze
+2026-03-25 18:29:30.965601 [INFO] - Extración de datos
+2026-03-25 18:29:43.616878 [INFO] - Orden de columnas
+2026-03-25 18:30:45.604092 
+
+2026-03-25 18:30:45.604092 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:30:45.604092 [START] - main
+2026-03-25 18:30:45.604092 
+
+2026-03-25 18:30:45.604092 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:30:45.604092 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:30:45.604092 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:30:45.611338 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:30:45.611338 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:30:45.611338 
+
+2026-03-25 18:30:45.611338 [START] - Ejecución Pipeline 
+2026-03-25 18:30:45.611338 [START] - Proceso raw
+2026-03-25 18:30:45.611338 [INFO] - Extracción de datos
+2026-03-25 18:30:45.622618 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:30:45.627576 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:30:45.631359 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:30:45.637884 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:30:45.641399 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:30:45.648205 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:30:45.653823 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:30:45.660235 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:30:45.667244 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:30:45.672750 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:30:45.675812 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:30:45.676826 [INFO] - Tiempo de ejecución raw - 0.07s
+2026-03-25 18:30:45.676826 [END] - Proceso raw
+2026-03-25 18:30:45.678062 
+
+2026-03-25 18:30:45.678062 [START] - Proceso brz
+2026-03-25 18:30:45.679254 [START] - Ejecución Bronze
+2026-03-25 18:30:45.680354 [INFO] - Extración de datos
+2026-03-25 18:30:55.817973 [INFO] - Orden de columnas
+2026-03-25 18:31:49.004506 [INFO] - Escritura de tablas correspondientes
+2026-03-25 18:31:50.303564 [END] - Ejecución Bronze
+2026-03-25 18:31:50.303564 [INFO] - Tiempo de ejecución brz - 64.63s
+2026-03-25 18:31:50.304727 [END] - Proceso brz
+2026-03-25 18:31:50.304727 
+
+2026-03-25 18:31:50.304727 [END] - Ejecución Pipeline 
+2026-03-25 18:31:50.304727 
+
+2026-03-25 18:31:50.304727 [END] - main
+2026-03-25 18:31:50.308057 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:33:57.754939 
+
+2026-03-25 18:33:57.761021 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:33:57.761021 [START] - main
+2026-03-25 18:33:57.761021 
+
+2026-03-25 18:33:57.761021 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:33:57.761021 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:33:57.761021 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:33:57.761021 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:33:57.761021 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:33:57.761021 
+
+2026-03-25 18:33:57.761021 [START] - Ejecución Pipeline 
+2026-03-25 18:33:57.771039 [START] - Proceso raw
+2026-03-25 18:33:57.771039 [INFO] - Extracción de datos
+2026-03-25 18:33:57.778938 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:33:57.783980 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:33:57.788529 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:33:57.795199 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:33:57.799428 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:33:57.804524 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:33:57.811199 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:33:57.818815 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:33:57.825681 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:33:57.832091 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:33:57.834579 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:33:57.835836 [INFO] - Tiempo de ejecución raw - 0.07s
+2026-03-25 18:33:57.835836 [END] - Proceso raw
+2026-03-25 18:33:57.836861 
+
+2026-03-25 18:33:57.837869 [START] - Proceso brz
+2026-03-25 18:33:57.837869 [START] - Ejecución Bronze
+2026-03-25 18:33:57.838873 [INFO] - Extración de datos
+2026-03-25 18:34:07.901378 [INFO] - Orden de columnas
+2026-03-25 18:35:06.781203 [INFO] - Escritura de tablas correspondientes
+2026-03-25 18:35:08.144653 [END] - Ejecución Bronze
+2026-03-25 18:35:08.146068 [INFO] - Tiempo de ejecución brz - 70.31s
+2026-03-25 18:35:08.146068 [END] - Proceso brz
+2026-03-25 18:35:08.147111 
+
+2026-03-25 18:35:08.148119 [START] - Proceso slv
+2026-03-25 18:35:08.148119 [START] - Ejecución Silver
+2026-03-25 18:35:08.149140 [INFO] - Extración de datos
+2026-03-25 18:35:08.829315 [INFO] - Orden de datos
+2026-03-25 18:35:20.801892 [INFO] - Normalización de Tabla
+2026-03-25 18:35:21.001892 [INFO] - Escritura de tabla
+2026-03-25 18:35:23.157502 [INFO] - Tabla de hechos
+2026-03-25 18:35:23.722176 [INFO] - Escritura de tabla
+2026-03-25 18:35:24.204505 [END] - Ejecución Silver
+2026-03-25 18:35:24.238209 [INFO] - Tiempo de ejecución slv - 16.09s
+2026-03-25 18:35:24.239213 [END] - Proceso slv
+2026-03-25 18:35:24.239213 
+
+2026-03-25 18:35:24.241013 [END] - Ejecución Pipeline 
+2026-03-25 18:35:24.241013 
+
+2026-03-25 18:35:24.242032 [END] - main
+2026-03-25 18:35:24.242821 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:35:26.182300 
+
+2026-03-25 18:35:26.182300 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:35:26.183311 [START] - main
+2026-03-25 18:35:26.184322 
+
+2026-03-25 18:35:26.185334 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:35:26.186346 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:35:26.188746 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:35:26.189757 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:35:26.191266 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:35:26.191266 
+
+2026-03-25 18:35:26.191266 [START] - Ejecución Pipeline 
+2026-03-25 18:35:26.192775 [START] - Proceso raw
+2026-03-25 18:35:26.193807 [INFO] - Extracción de datos
+2026-03-25 18:35:26.199896 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:35:26.204941 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:35:26.204941 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:35:26.211048 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:35:26.211048 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:35:26.228967 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:35:26.238614 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:35:26.278191 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:35:26.289701 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:35:26.301278 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:35:26.308531 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:35:26.308531 [INFO] - Tiempo de ejecución raw - 0.12s
+2026-03-25 18:35:26.311038 [END] - Proceso raw
+2026-03-25 18:35:26.313067 
+
+2026-03-25 18:35:26.344036 [START] - Proceso brz
+2026-03-25 18:35:26.346035 [START] - Ejecución Bronze
+2026-03-25 18:35:26.348034 [INFO] - Extración de datos
+2026-03-25 18:35:37.879338 [INFO] - Orden de columnas
+2026-03-25 18:36:40.584046 [INFO] - Escritura de tablas correspondientes
+2026-03-25 18:36:41.846192 [END] - Ejecución Bronze
+2026-03-25 18:36:41.846192 [INFO] - Tiempo de ejecución brz - 75.50s
+2026-03-25 18:36:41.847439 [END] - Proceso brz
+2026-03-25 18:36:41.847439 
+
+2026-03-25 18:36:41.848673 [START] - Proceso slv
+2026-03-25 18:36:41.848673 [START] - Ejecución Silver
+2026-03-25 18:36:41.849892 [INFO] - Extración de datos
+2026-03-25 18:36:42.502112 [INFO] - Orden de datos
+2026-03-25 18:36:55.169201 [INFO] - Normalización de Tabla
+2026-03-25 18:36:55.362724 [INFO] - Escritura de tabla
+2026-03-25 18:36:57.511038 [INFO] - Tabla de hechos
+2026-03-25 18:36:58.123255 [INFO] - Escritura de tabla
+2026-03-25 18:36:58.587157 [END] - Ejecución Silver
+2026-03-25 18:36:58.614733 [INFO] - Tiempo de ejecución slv - 16.77s
+2026-03-25 18:36:58.616739 [END] - Proceso slv
+2026-03-25 18:36:58.616739 
+
+2026-03-25 18:36:58.616739 [END] - Ejecución Pipeline 
+2026-03-25 18:36:58.618744 
+
+2026-03-25 18:36:58.618744 [END] - main
+2026-03-25 18:36:58.619748 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:37:50.764486 
+
+2026-03-25 18:37:50.764486 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:37:50.765994 [START] - main
+2026-03-25 18:37:50.765994 
+
+2026-03-25 18:37:50.768070 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:37:50.769097 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:37:50.770623 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:37:50.771664 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:37:50.772597 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:37:50.773656 [START] - Proceso gld
+2026-03-25 18:37:50.774650 [START] - Ejecución Gold
+2026-03-25 18:37:50.775160 [INFO] - Extracción de datos
+2026-03-25 18:37:50.925450 [INFO] - Desnormalización de tablas
+2026-03-25 18:37:50.987200 [INFO] - Reglas de negocio
+2026-03-25 18:37:50.997923 [INFO] - Escritura de tabla
+2026-03-25 18:37:51.415140 [END] - Ejecución Gold
+2026-03-25 18:37:51.418283 [INFO] - Tiempo de ejecución gld - 0.64s
+2026-03-25 18:37:51.419290 [END] - Proceso gld
+2026-03-25 18:37:51.419290 [END] - Ejecución Pipeline 
+2026-03-25 18:37:51.420816 
+
+2026-03-25 18:37:51.420816 [END] - main
+2026-03-25 18:37:51.422054 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:43:30.764902 
+
+2026-03-25 18:43:30.765914 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:43:30.766935 [START] - main
+2026-03-25 18:43:30.766935 
+
+2026-03-25 18:43:30.768956 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:43:30.772822 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:43:30.774824 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:43:30.776992 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:43:30.778997 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:43:30.778997 
+
+2026-03-25 18:43:30.780011 [START] - Ejecución Pipeline 
+2026-03-25 18:43:30.780011 [START] - Proceso raw
+2026-03-25 18:43:30.781454 [INFO] - Extracción de datos
+2026-03-25 18:43:30.787782 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:43:30.793496 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:43:30.797846 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:43:30.803825 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:43:30.805029 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:43:30.816126 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:43:30.821812 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:43:30.827817 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:43:30.833617 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:43:30.840037 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:43:30.844205 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:43:30.844205 [INFO] - Tiempo de ejecución raw - 0.06s
+2026-03-25 18:43:30.845216 [END] - Proceso raw
+2026-03-25 18:43:30.846348 [END] - Ejecución Pipeline 
+2026-03-25 18:43:30.847462 
+
+2026-03-25 18:43:30.848538 [END] - main
+2026-03-25 18:43:30.848538 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:44:18.980226 
+
+2026-03-25 18:44:18.980226 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+2026-03-25 18:44:18.980226 [START] - main
+2026-03-25 18:44:18.980226 
+
+2026-03-25 18:44:18.985272 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\MaterialesProyectoFinal
+2026-03-25 18:44:18.987618 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\raw
+2026-03-25 18:44:18.988631 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\brz
+2026-03-25 18:44:18.990139 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\slv
+2026-03-25 18:44:18.991173 [INFO] - Crecaión de la ruta C:\Users\DELL\Respaldo\DON VILLA NUEVO\UNIVERSITY\Proyecto\DIPLOMADOS\Ciencia de datos Google\Proyecto final\MaterialesProyectoFinal\data\gld
+2026-03-25 18:44:18.992179 
+
+2026-03-25 18:44:18.992179 [START] - Ejecución Pipeline 
+2026-03-25 18:44:18.993233 [START] - Proceso raw
+2026-03-25 18:44:18.993233 [INFO] - Extracción de datos
+2026-03-25 18:44:18.999826 [INFO] - Cambio de archivos a carpeta raw 1.csv
+2026-03-25 18:44:19.009910 [INFO] - Cambio de archivos a carpeta raw 1.xlsx
+2026-03-25 18:44:19.009910 [INFO] - Cambio de archivos a carpeta raw 15.xlsx
+2026-03-25 18:44:19.022000 [INFO] - Cambio de archivos a carpeta raw 1ee.txt
+2026-03-25 18:44:19.026311 [INFO] - Cambio de archivos a carpeta raw 2.xlsx
+2026-03-25 18:44:19.036281 [INFO] - Cambio de archivos a carpeta raw 3.txt
+2026-03-25 18:44:19.042122 [INFO] - Cambio de archivos a carpeta raw 54.txt
+2026-03-25 18:44:19.048288 [INFO] - Cambio de archivos a carpeta raw 67e.sqlite
+2026-03-25 18:44:19.055647 [INFO] - Cambio de archivos a carpeta raw ds.csv
+2026-03-25 18:44:19.062363 [INFO] - Cambio de archivos a carpeta raw e2.csv
+2026-03-25 18:44:19.065365 [INFO] - Cambio de archivos a carpeta raw README.txt
+2026-03-25 18:44:19.065365 [INFO] - Tiempo de ejecución raw - 0.07s
+2026-03-25 18:44:19.065365 [END] - Proceso raw
+2026-03-25 18:44:19.066869 
+
+2026-03-25 18:44:19.066869 [START] - Proceso brz
+2026-03-25 18:44:19.069202 [START] - Ejecución Bronze
+2026-03-25 18:44:19.070224 [INFO] - Extración de datos
+2026-03-25 18:44:31.296964 [INFO] - Orden de columnas
+2026-03-25 18:45:26.843458 [INFO] - Escritura de tablas correspondientes
+2026-03-25 18:45:28.239999 [END] - Ejecución Bronze
+2026-03-25 18:45:28.239999 [INFO] - Tiempo de ejecución brz - 69.17s
+2026-03-25 18:45:28.239999 [END] - Proceso brz
+2026-03-25 18:45:28.239999 
+
+2026-03-25 18:45:28.239999 [END] - Ejecución Pipeline 
+2026-03-25 18:45:28.239999 
+
+2026-03-25 18:45:28.239999 [END] - main
+2026-03-25 18:45:28.239999 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()

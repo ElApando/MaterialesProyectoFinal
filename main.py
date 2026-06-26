@@ -4,16 +4,16 @@ Este es el comienzo del proyecto, se crean las carpetas de uso si no existen y p
 se activa el Pipeline.
 
 Se ejecuta con => python -m main
-pip install -e "C:/Users/DELL/Respaldo/DON VILLA NUEVO/UNIVERSITY/Proyecto/PYTHON/GitHub/villapy"
 """
 
-import villapy.looging.write_log as wl
-from villapy.looging.write_log import WriteLogs
-from villapy.filesystem.files_utils import ManageFile
+# pylint: disable=import-error
+ 
+from villapy_lib.looging.write_log import WriteLogs # type:ignore
+from villapy_lib.filesystem.files_utils import ManageFile # type:ignore
 
 from config.static import DI_SCOPE
 from src.orchestration.pipeline import Pipeline
-print(dir(wl))
+
 def main()->None:
     """
     Ejecuta la función principal del proyecto.
@@ -22,7 +22,6 @@ def main()->None:
     """
 
     ac_logs: WriteLogs = WriteLogs()
-    print(dir(ac_logs))
 
     ac_logs.write_logs("\n")
     ac_logs.write_logs("()"*30)

@@ -1,0 +1,8 @@
+[project]
+name = "proyecto_final"
+version = "1.0.0"
+description = "Final project for the Data Analyst certification on Google Cloud Platform (GCP)"
+authors = [{name="Juan Villalpando"}]
+requires-python = ">=3.11.9"
+dependecies = []
+readme = "README.md"

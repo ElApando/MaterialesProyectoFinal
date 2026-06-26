@@ -1,11 +1,10 @@
 """DOC
 """
 
-import time
-from typing import Callable
+# pylint: disable=import-error
 
-from villapy.looging.write_log import WriteLogs
-from villapy.utils.functions import ManageFunctions
+from villapy_lib.looging.write_log import WriteLogs #type:ignore
+from villapy_lib.utils.functions import ManageFunctions #type:ignore
 
 from src.stages import raw, bronze, silver, gold
 
@@ -37,40 +36,15 @@ class Pipeline:
         """Ejecución
         
         La función ejecuta los diferentes procesos del pipeline ETL"""
-        self.ac_logs.write_logs("\n")
+        self.ac_logs.write_logs("\n") 
         self.ac_logs.write_logs("[START] - Ejecución Pipeline ")
         self.cl_func.run_stage("raw", self.raw.execute)
-        # self.ac_logs.write_logs("\n")
-        # self._run_stage("brz", self.bronze.execute)
-        # self.ac_logs.write_logs("\n")
-        # self._run_stage("slv", self.silver.execute)
-        # self.ac_logs.write_logs("\n")
-        # self._run_stage("gld", self.gold.execute)
-
+        self.ac_logs.write_logs("\n")
+        self.cl_func.run_stage("brz", self.bronze.execute)
+        self.ac_logs.write_logs("\n")
+        self.cl_func.run_stage("slv", self.silver.execute)
+        self.ac_logs.write_logs("\n")
+        self.cl_func.run_stage("gld", self.gold.execute)
         self.ac_logs.write_logs("[END] - Ejecución Pipeline ")
-
-    def _run_stage(self, st_name_process: str, fu_function: Callable[..., None])->None:
-        """ Run Stage
-        
-        La función registra la actividad de las funciones que se ejecutan. Registra tiempo de
-        ejecución, que proceso se ejecuta, y si hubo algun error en la ejecución
-
-        Parameters:
-            st_name_process (str): Nombre del proceso que se ejecutará
-            fu_function (Callable): Función en cuestión
-        """
-        fl_start_time = time.time()
-        self.ac_logs.write_logs(f"[START] - Proceso {st_name_process}")
-
-        try:
-            fu_function()
-            fl_duration = time.time() - fl_start_time
-            self.ac_logs.write_logs(
-                            f"[INFO] - Tiempo de ejecución {st_name_process} - {fl_duration:.2f}s")
-            self.ac_logs.write_logs(f"[END] - Proceso {st_name_process}")
-
-        except Exception as e:
-            self.ac_logs.write_logs(f"[FALLO] - {st_name_process} - Error {e}")
-            raise
 
 # Finite Incantatem
